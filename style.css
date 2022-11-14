@@ -1,0 +1,18 @@
+#cv-template{
+    display: none;
+}
+.career, .card-body{
+    background-color: rgb(222, 243, 243);
+    font-style: sans-serif;
+}
+     
+.myImg{
+    border-radius: 50%;
+    width: 200px;
+}
+.background{
+    background-color: rgb(134, 179, 179);
+}
+ul{
+    list-style:disc;
+}
