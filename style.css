@@ -13,6 +13,15 @@
 .background{
     background-color: rgb(134, 179, 179);
 }
-ul{
-    list-style:disc;
+@media print {
+    .info{
+        width:30%;
+        float: left;
+    }
+
+    .detail-container{
+        width: 70%;
+        float: right;
+    }
 }
+
